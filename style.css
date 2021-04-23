@@ -1,0 +1,107 @@
+p{
+ font-family:sans-serif;
+}
+h1{
+  font-size:30px;
+   background-color:rgb(207, 209, 230)
+}
+h2{
+  font-size:20px;
+}
+h3{
+  font-size:20px;
+}
+h4{
+  font-size:16px;
+}
+.titulo1{
+       color:rgba(22, 25, 68, 0.795);
+       
+}
+.titulo2{
+       color:rgb(76, 113, 168);
+       
+}
+.titulo3{
+      color:rgb(102, 102, 189);
+}
+.titulo4{
+    color:rgb(126, 126, 167);
+
+}
+.texto{
+         color:rgb(51, 52, 61)
+         position:absolute;
+}
+.imagens-pequenas{
+                 width:200px
+  }
+  .fundo-azul-transparencia{
+                      background-color:rgba(0, 0, 255, 0.123);
+  }
+  header {
+         flex-basis:100%
+ }
+  footer {
+         display:flex;
+         flex-direction:row;
+ }
+ button {
+      color:rgb(28, 30, 39);
+      background-color:beige;    
+ }
+ input {
+       width:65%
+ }
+ aside {
+  width: 40%;
+  padding-left:69px;
+  margin-left:69px;
+  float:right;
+  background-color: lightgray;
+}
+ section {
+  display: block;
+}
+ .ul {
+    list-style-type: none;
+    margin: 30;
+    padding: 10;
+    color:rgb(51, 57, 80)
+  }
+
+  .backgroundbutton{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-content: space-between;
+   background-color: rgba(238, 221, 221, 0.8);
+   width:100%;
+   margin-bottom: 30px;
+  }
+  #BlueButton{
+    background-color:blue;
+    color: beige;
+    padding: 14px;
+  }
+  #PurpleButton{
+    background-color:purple;
+    color: beige;
+    padding: 14px;
+  }
+#PinkButton{
+    background-color:pink;
+    color: black;
+    padding: 14px;
+  }
+#WhiteButton{
+    background-color:White;
+    color:black;
+    padding: 14px;
+  }
+#GrayButton{
+    background-color: gray;
+    color:beige;
+    padding: 14px;
+  }
+  
